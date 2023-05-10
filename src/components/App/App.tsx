@@ -1,5 +1,11 @@
+import TodoList from "../TodoList/TodoList";
+
 const App = (): JSX.Element => {
-  return <p>Hola</p>;
+  return (
+    <>
+      <TodoList todos={[]} />
+    </>
+  );
 };
 
 export default App;
