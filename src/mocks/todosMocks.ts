@@ -1,4 +1,4 @@
-import { TodosStructure } from "../components/App/store/todos/types";
+import { TodosStructure } from "../types";
 
 const todosMocks: TodosStructure[] = [
   {

@@ -20,6 +20,8 @@ export default defineConfig({
         "**/*.d.ts",
         "src/store/index.ts",
         "src/main.tsx",
+        "src/styles/GlobalStyle/GlobalStyle.ts",
+        "src/styles/theme/theme.ts",
       ],
     },
   },
