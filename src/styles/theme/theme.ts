@@ -6,7 +6,7 @@ const theme: DefaultTheme = {
     title_body: "#273240",
   },
   fonts: {
-    primary: "Rajdhani",
+    primary: "Verdana",
   },
 };
 
